@@ -20,6 +20,7 @@ namespace WebApplication1.Controllers
                 new Product(){Id=1,Name="P1" },
               new Product() { Id = 2, Name = "P2" }
 
+
             };
             return Json(products);
 
